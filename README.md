@@ -1,4 +1,5 @@
-# seip2005-javascript-koans
+# javascript-koans
+This is a project I completed as a student at [hackreactor](http://hackreactor.com).
 
 (DONE)Bare Minimum Requirements:
 Make all tests in these files pass:
